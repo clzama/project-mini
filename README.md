@@ -1,2 +1,2 @@
-# game-python-code
+# project-python-code
 Bull and Cow guessing game
